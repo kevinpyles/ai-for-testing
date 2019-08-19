@@ -43,7 +43,7 @@ These tasks will set a foundation of Machine Learning and help you apply some al
 |Read [Supervised and Unsupervised Machine Learning Algorithms](https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/) | 15 Min| 
 |Read [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/) | 15 Min | 
 |Read [Overfitting and Underfitting with Machine Learning Algorithms](https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/) | 20 Min | 
-|Read [Machine Learning Algorithms Min-Course](https://machinelearningmastery.com/machine-learning-algorithms-mini-course/) | 1 Hour | 
+|Read [Machine Learning Algorithms Mini-Course](https://machinelearningmastery.com/machine-learning-algorithms-mini-course/) | 1 Hour | 
 |Complete [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) | 2 Hours|
 |Complete [Practical Machine Learning Tutorial with Python](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) | 10 Hours |
 |Read [Hands-On Machine Learning with Scikit Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | 60 Hours | 
