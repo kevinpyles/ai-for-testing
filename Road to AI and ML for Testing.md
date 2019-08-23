@@ -9,7 +9,7 @@ After completing these tasks you should be comfortable with the basics of progra
 |Resource|Est. Time|
 |--------|------|
 |Read [Beginning Python](https://www.amazon.com/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292) Chapters 1-7| 9 Hours |
-|Complete [exercises] for Beginning Python | 12 Hours |
+|Complete [exercises](https://github.com/kevinpyles/ai-for-testing/blob/master/Python%20Learning%20Exercises.pdf) for Beginning Python | 12 Hours |
 |Complete [Setting a Foundation for Successful test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html) Tutorial | 5 Hours |
 |Complete Web Element Locator Strategies Tutorial | 3 Hours |
 |Setup Selenium | 2 Hours |
