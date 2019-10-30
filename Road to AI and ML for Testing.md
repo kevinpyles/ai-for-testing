@@ -45,6 +45,7 @@ These tasks will set a foundation of Machine Learning and help you apply some al
 |Read [Overfitting and Underfitting with Machine Learning Algorithms](https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/) | 20 Min | 
 |Read [Machine Learning Algorithms Mini-Course](https://machinelearningmastery.com/machine-learning-algorithms-mini-course/) | 1 Hour | 
 |Complete [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) | 2 Hours|
+|Complete [Machine Learning Course by Andrew Ng](https://www.coursera.org/learn/machine-learning) | 60 Hours |
 |Complete [Practical Machine Learning Tutorial with Python](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) | 10 Hours |
 |Read [Hands-On Machine Learning with Scikit Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | 60 Hours | 
 |Complete [AI for Element Selection: Erasing the Pain of Fragile Test Scripts](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html) Tutorial | 2 Hours |
