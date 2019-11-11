@@ -28,7 +28,7 @@ After learning about Data Analytics in these tasks you should be able to gather 
 |Resource|Est. Time|
 |--------|------|
 |Complete [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) Course on Khan Academy| 50 Hours |
-|Complete [Data Analyssi w/Python 3 and Pandas](https://pythonprogramming.net/introduction-python3-pandas-data-analysis/) Tutorial | 4 Hours |
+|Complete [Data Analysis w/Python 3 and Pandas](https://pythonprogramming.net/introduction-python3-pandas-data-analysis/) Tutorial | 4 Hours |
 |Read [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130) | 45 Hours | 
 |Complete [Data Analytics for Test Cases](https://github.com/kevinpyles/ai-for-testing/blob/master/Data%20Analytics%20for%20Test%20Cases.ipynb) Tutorial | 1 Hour | 
 
